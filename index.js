@@ -2,6 +2,7 @@
 const firebaseConfig = {
   apiKey: "AIzaSyCVDijNJmNpcdn-cwGrQP0ku18CSh3vGiE",
   authDomain: "weather-60105.firebaseapp.com",
+  databaseURL: "https://weather-60105-default-rtdb.europe-west1.firebasedatabase.app",
   projectId: "weather-60105",
   storageBucket: "weather-60105.appspot.com",
   messagingSenderId: "887379289002",

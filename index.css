@@ -17,6 +17,20 @@ body {
     width: 300px;
     font-size: 16px;
   }
+  input[type="email"] {
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    width: 300px;
+    font-size: 16px;
+  }
+  input[type="password"] {
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    width: 300px;
+    font-size: 16px;
+  }
   
   button[type="submit"] {
     background-color: #4caf50;
