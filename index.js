@@ -90,7 +90,7 @@ function login () {
 
     // DOne
     alert('User Logged In!!')
-    window.location.href = 'http://google.com';
+    window.location.href = './weather.html';
   })
   .catch(function(error) {
     // Firebase will use this to alert of its errors
